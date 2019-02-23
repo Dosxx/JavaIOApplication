@@ -16,7 +16,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author kekeli D Akouete
+ * @author Kekeli D Akouete
  * ICS-340 FALL 2018-2019
  * Description: this program will open a file chooser in the present directory 
  * read the content of a text file and sum up the values of the input per line 
